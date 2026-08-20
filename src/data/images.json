@@ -1,0 +1,530 @@
+{
+  "hero-dining": {
+    "id": "MAFMkfevd7w",
+    "raw": "https://images.unsplash.com/photo-1765582870011-ff3cfdb06700?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxmcmllbmRzJTIwZGluaW5nJTIwdG9nZXRoZXIlMjByZXN0YXVyYW50JTIwY2VsZWJyYXRpb258ZW58MXwwfHx8MTc4NzI0ODgyN3ww&ixlib=rb-4.1.0",
+    "blurHash": "LEFYcE-=13OsE2?b_M-;^+slo|ax",
+    "color": "#262626",
+    "alt": "Group of friends gathered around a table for a meal",
+    "credit": {
+      "name": "tommao wang",
+      "username": "tommaomaoer",
+      "link": "https://unsplash.com/@tommaomaoer"
+    }
+  },
+  "faq-dining": {
+    "id": "jlXtAvGx_hg",
+    "raw": "https://images.unsplash.com/photo-1699730148132-1409a3728479?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxmcmllbmRzJTIwdG9hc3RpbmclMjBkaW5uZXIlMjB0YWJsZSUyMHJlc3RhdXJhbnR8ZW58MXwwfHx8MTc4NzI0ODgyOHww&ixlib=rb-4.1.0",
+    "blurHash": "LDAvLUozoLS1ELnixZt60zRjoLe.",
+    "color": "#262626",
+    "alt": "a group of people sitting around a table with food and drinks",
+    "credit": {
+      "name": "OurWhisky Foundation",
+      "username": "ourwhiskyfoundation",
+      "link": "https://unsplash.com/@ourwhiskyfoundation"
+    }
+  },
+  "partner-owner": {
+    "id": "y-XZf_TNRms",
+    "raw": "https://images.unsplash.com/photo-1622021142947-da7dedc7c39a?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxyZXN0YXVyYW50JTIwb3duZXIlMjBjaGVmJTIwa2l0Y2hlbiUyMHBvcnRyYWl0fGVufDF8MHx8fDE3ODcyNDg4Mjh8MA&ixlib=rb-4.1.0",
+    "blurHash": "LRDJ6UsT00bb?bkCD%M{IoozxtM{",
+    "color": "#262626",
+    "alt": "A chef in a white coat chopping vegetables on a green board in a kitchen",
+    "credit": {
+      "name": "Pylyp Sukhenko",
+      "username": "novokayn",
+      "link": "https://unsplash.com/@novokayn"
+    }
+  },
+  "member-savings": {
+    "id": "syYLeGPJd0Q",
+    "raw": "https://images.unsplash.com/photo-1561132667-ab2a54ebf2dc?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxjb3VwbGUlMjBkaW5pbmclMjByZXN0YXVyYW50JTIwY2FuZGxlbGlnaHR8ZW58MXwwfHx8MTc4NzI0ODgyOXww&ixlib=rb-4.1.0",
+    "blurHash": "LBDlTm^-5l^+O[-p^jXT0JV?wIRO",
+    "color": "#262626",
+    "alt": "man wearing white dress shirt looking at girl while sitting on couch",
+    "credit": {
+      "name": "Artur Tumasjan",
+      "username": "arturtumasjan",
+      "link": "https://unsplash.com/@arturtumasjan"
+    }
+  },
+  "sit-down": {
+    "id": "h2_8LFfjUUc",
+    "raw": "https://images.unsplash.com/photo-1758537697448-dbfc1cb83e49?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxmaW5lJTIwZGluaW5nJTIwcmVzdGF1cmFudCUyMHRhYmxlJTIwc2V0dGluZ3xlbnwxfDB8fHwxNzg3MjQ4ODMwfDA&ixlib=rb-4.1.0",
+    "blurHash": "LBBpa^01-;t8M_xvad9ZDh.8MxWC",
+    "color": "#262626",
+    "alt": "Restaurant interior with tables and bar area",
+    "credit": {
+      "name": "Adrien Olichon",
+      "username": "adrienolichon",
+      "link": "https://unsplash.com/@adrienolichon"
+    }
+  },
+  "fast-food": {
+    "id": "8l8Yl2ruUsg",
+    "raw": "https://images.unsplash.com/photo-1561758033-d89a9ad46330?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxjaGVlc2VidXJnZXIlMjBhbmQlMjBmcmllc3xlbnwxfDB8fHwxNzg3MjQ4ODMxfDA&ixlib=rb-4.1.0",
+    "blurHash": "LLFE439u%1M|0$I=xZoJ59t6NHxZ",
+    "color": "#260c0c",
+    "alt": "burger with fries",
+    "credit": {
+      "name": "Jonathan Borba",
+      "username": "jonathanborba",
+      "link": "https://unsplash.com/@jonathanborba"
+    }
+  },
+  "pizza": {
+    "id": "40OJLYVWeeM",
+    "raw": "https://images.unsplash.com/photo-1579751626657-72bc17010498?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHx3b29kJTIwZmlyZWQlMjBwaXp6YXxlbnwxfDB8fHwxNzg3MjQ4ODMyfDA&ixlib=rb-4.1.0",
+    "blurHash": "LCCi2Di_0#Ek0LxFNHELEN={xuEj",
+    "color": "#260c0c",
+    "alt": "pizza on brown wooden table",
+    "credit": {
+      "name": "Nik Owens",
+      "username": "nik_owens",
+      "link": "https://unsplash.com/@nik_owens"
+    }
+  },
+  "coffee-shops": {
+    "id": "cb_ppfNXLSU",
+    "raw": "https://images.unsplash.com/photo-1607278967703-161b7cc497f9?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxjb2ZmZWUlMjBzaG9wJTIwbGF0dGUlMjBhcnR8ZW58MXwwfHx8MTc4NzI0ODgzM3ww&ixlib=rb-4.1.0",
+    "blurHash": "L88:|yMw4;xu?HVsxaR*0fWY-oNG",
+    "color": "#262626",
+    "alt": "a person holding a cup of coffee on top of a wooden table",
+    "credit": {
+      "name": "Nathan Dumlao",
+      "username": "nate_dumlao",
+      "link": "https://unsplash.com/@nate_dumlao"
+    }
+  },
+  "breakfast-diners": {
+    "id": "tFlpXzfxrzE",
+    "raw": "https://images.unsplash.com/photo-1660836521245-cdb2156050e9?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxwYW5jYWtlcyUyMGJyZWFrZmFzdCUyMGRpbmVyfGVufDF8MHx8fDE3ODcyNDg4MzN8MA&ixlib=rb-4.1.0",
+    "blurHash": "LOPZ0[00IpIVMxtRIURPx^%gMxof",
+    "color": "#f3f3d9",
+    "alt": "a plate with food on it",
+    "credit": {
+      "name": "Edward Howell",
+      "username": "edwardhowellphotography",
+      "link": "https://unsplash.com/@edwardhowellphotography"
+    }
+  },
+  "donut-shops": {
+    "id": "-tR4fnNJW2A",
+    "raw": "https://images.unsplash.com/photo-1527904324834-3bda86da6771?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxnbGF6ZWQlMjBkb251dHN8ZW58MXwwfHx8MTc4NzI0ODgzNHww&ixlib=rb-4.1.0",
+    "blurHash": "LEIEFW?JE1E1e80M%2-otj0fRP=|",
+    "color": "#262626",
+    "alt": "pile of donuts",
+    "credit": {
+      "name": "Anna Sullivan",
+      "username": "aesullivan2010",
+      "link": "https://unsplash.com/@aesullivan2010"
+    }
+  },
+  "bar-lounge": {
+    "id": "yLUvnCFI500",
+    "raw": "https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxjb2NrdGFpbCUyMGJhciUyMGxvdW5nZXxlbnwxfDB8fHwxNzg3MjQ4ODM1fDA&ixlib=rb-4.1.0",
+    "blurHash": "LMEA+,0xTHRiSur{NY$*ExxINFt5",
+    "color": "#260c0c",
+    "alt": "person pouring liquor in clear drinking glass",
+    "credit": {
+      "name": "Louis Hansel",
+      "username": "louishansel",
+      "link": "https://unsplash.com/@louishansel"
+    }
+  },
+  "food-truck": {
+    "id": "geeZzrAXyMQ",
+    "raw": "https://images.unsplash.com/photo-1565123409695-7b5ef63a2efb?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxmb29kJTIwdHJ1Y2slMjBzdHJlZXQlMjBmb29kfGVufDF8MHx8fDE3ODcyNDg4MzV8MA&ixlib=rb-4.1.0",
+    "blurHash": "LLC@KYS$iunN9ps+IqWF?Zt7xuW=",
+    "color": "#738c73",
+    "alt": "blue vehicle",
+    "credit": {
+      "name": "Ryan Waring",
+      "username": "ryanwaring",
+      "link": "https://unsplash.com/@ryanwaring"
+    }
+  },
+  "amusement-park": {
+    "id": "IU50vDwlhEc",
+    "raw": "https://images.unsplash.com/photo-1627035983655-0ceec61bb733?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxhbXVzZW1lbnQlMjBwYXJrJTIwcm9sbGVyJTIwY29hc3RlcnxlbnwxfDB8fHwxNzg3MjQ4ODM2fDA&ixlib=rb-4.1.0",
+    "blurHash": "LHFGa~8^9Fo}19rrs;R+I9t7oIax",
+    "color": "#598cc0",
+    "alt": "a roller coaster at an amusement park",
+    "credit": {
+      "name": "Somruthai Keawjan",
+      "username": "deuxsong",
+      "link": "https://unsplash.com/@deuxsong"
+    }
+  },
+  "auto-dealership": {
+    "id": "bC5NNbwuoB0",
+    "raw": "https://images.unsplash.com/photo-1643142314913-0cf633d9bbb5?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxjYXIlMjBkZWFsZXJzaGlwJTIwc2hvd3Jvb218ZW58MXwwfHx8MTc4NzI0ODgzNnww&ixlib=rb-4.1.0",
+    "blurHash": "LHGIDo_N4nIA%#?HRjM{%1ofV@S2",
+    "color": "#404040",
+    "alt": "a red car is parked in a showroom",
+    "credit": {
+      "name": "Crosby Hinze",
+      "username": "crosbyhinze",
+      "link": "https://unsplash.com/@crosbyhinze"
+    }
+  },
+  "bakery": {
+    "id": "N4gtuEZ5gWc",
+    "raw": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxiYWtlcnklMjBicmVhZCUyMGFuZCUyMHBhc3RyaWVzfGVufDF8MHx8fDE3ODcyNDg4Mzd8MA&ixlib=rb-4.1.0",
+    "blurHash": "LDK]DN}=Td=vZ}t,9aRj5XD*={xt",
+    "color": "#c07326",
+    "alt": "brown bread on brown wicker basket",
+    "credit": {
+      "name": "mohamed hassouna",
+      "username": "mhassouna931",
+      "link": "https://unsplash.com/@mhassouna931"
+    }
+  },
+  "beauty-hair-salon": {
+    "id": "Md_DhaFsnCQ",
+    "raw": "https://images.unsplash.com/photo-1634449571010-02389ed0f9b0?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxoYWlyJTIwc2Fsb24lMjBzdHlsaW5nfGVufDF8MHx8fDE3ODcyNDg4Mzd8MA&ixlib=rb-4.1.0",
+    "blurHash": "LEA0g$t70KNGD$j[xvaeNbRjnhs:",
+    "color": "#260c0c",
+    "alt": "a woman getting her hair cut by a hair stylist",
+    "credit": {
+      "name": "Lindsay Cash",
+      "username": "lindsayrc81",
+      "link": "https://unsplash.com/@lindsayrc81"
+    }
+  },
+  "book-store": {
+    "id": "xFcoLGuhdGs",
+    "raw": "https://images.unsplash.com/photo-1569728723358-d1a317aa7fba?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxib29rc3RvcmUlMjBzaGVsdmVzfGVufDF8MHx8fDE3ODcyNDg4Mzh8MA&ixlib=rb-4.1.0",
+    "blurHash": "LeMHJnxa%gt7?wWCofWBITazM{ae",
+    "color": "#d9d9d9",
+    "alt": "assorted book on shelf",
+    "credit": {
+      "name": "YJ Lee",
+      "username": "youthreee",
+      "link": "https://unsplash.com/@youthreee"
+    }
+  },
+  "bowling-alley": {
+    "id": "PctpyA-0luQ",
+    "raw": "https://images.unsplash.com/photo-1783197970733-156cf8b5705a?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxib3dsaW5nJTIwYWxsZXklMjBsYW5lc3xlbnwxfDB8fHwxNzg3MjQ4ODM5fDA&ixlib=rb-4.1.0",
+    "blurHash": "LnMjRANGtRozyZt7bHS4$fbHM{NG",
+    "color": "#d9d9d9",
+    "alt": "A bowling alley sign stands in an empty parking lot",
+    "credit": {
+      "name": "Bruno Guerrero",
+      "username": "pray4bokeh",
+      "link": "https://unsplash.com/@pray4bokeh"
+    }
+  },
+  "butcher": {
+    "id": "qgfjZUXup1M",
+    "raw": "https://images.unsplash.com/photo-1597417321971-45e034f7a993?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxidXRjaGVyJTIwc2hvcCUyMG1lYXQlMjBjb3VudGVyfGVufDF8MHx8fDE3ODcyNDg4Mzl8MA&ixlib=rb-4.1.0",
+    "blurHash": "LJH_Jb9Z0Ln4?^IUM|Io4.nN$*%2",
+    "color": "#262626",
+    "alt": "raw meat on display counter",
+    "credit": {
+      "name": "Kyle Mackie",
+      "username": "macrz",
+      "link": "https://unsplash.com/@macrz"
+    }
+  },
+  "car-mechanic": {
+    "id": "Fd6osyVbtG4",
+    "raw": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxhdXRvJTIwbWVjaGFuaWMlMjBnYXJhZ2UlMjByZXBhaXJ8ZW58MXwwfHx8MTc4NzI0ODg0MHww&ixlib=rb-4.1.0",
+    "blurHash": "L99Pfq0#Ip=_=xR+xFWV58-U-U9v",
+    "color": "#260c0c",
+    "alt": "Hands with grease working on a car engine with a metal wrench",
+    "credit": {
+      "name": "Christian Buehner",
+      "username": "christianbuehner",
+      "link": "https://unsplash.com/@christianbuehner"
+    }
+  },
+  "car-wash-detail": {
+    "id": "9iH_6JO7Ufs",
+    "raw": "https://images.unsplash.com/photo-1605164598708-25701594473e?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxjYXIlMjB3YXNoJTIwZGV0YWlsaW5nfGVufDF8MHx8fDE3ODcyNDg4NDF8MA&ixlib=rb-4.1.0",
+    "blurHash": "LOD9u8-ovysRbwjtIoRj00NGOtR-",
+    "color": "#F4CA49",
+    "alt": "a car is covered in snow in a garage",
+    "credit": {
+      "name": "Zulfahmi Khani",
+      "username": "fahmivamiola",
+      "link": "https://unsplash.com/@fahmivamiola"
+    }
+  },
+  "chiropractic": {
+    "id": "uLWW09LLG04",
+    "raw": "https://images.unsplash.com/photo-1706353399656-210cca727a33?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxjaGlyb3ByYWN0b3IlMjBiYWNrJTIwYWRqdXN0bWVudHxlbnwxfDB8fHwxNzg3MjQ4ODQyfDA&ixlib=rb-4.1.0",
+    "blurHash": "LoOg1sad.8t7~qM{aeRiE1t7Riof",
+    "color": "#f3f3f3",
+    "alt": "a woman getting a back massage from a man",
+    "credit": {
+      "name": "Marc Zeman",
+      "username": "der_zeman",
+      "link": "https://unsplash.com/@der_zeman"
+    }
+  },
+  "compound-pharmacy": {
+    "id": "w8p9cQDLX7I",
+    "raw": "https://images.unsplash.com/photo-1628771065518-0d82f1938462?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxwaGFybWFjeSUyMGNvbXBvdW5kaW5nJTIwcHJlc2NyaXB0aW9ufGVufDF8MHx8fDE3ODcyNDg4NDJ8MA&ixlib=rb-4.1.0",
+    "blurHash": "LPEX@;A0ivsjpyrCT0s9JBxFngOG",
+    "color": "#73c0f3",
+    "alt": "colorful pills spilling from orange bottle",
+    "credit": {
+      "name": "Towfiqu barbhuiya",
+      "username": "towfiqu999999",
+      "link": "https://unsplash.com/@towfiqu999999"
+    }
+  },
+  "deli": {
+    "id": "3xVgYMGpU6k",
+    "raw": "https://images.unsplash.com/photo-1705647405231-c481e117e609?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxkZWxpJTIwc2FuZHdpY2glMjBjb3VudGVyfGVufDF8MHx8fDE3ODcyNDg4NDN8MA&ixlib=rb-4.1.0",
+    "blurHash": "LCIqrsxU9HM#Dhnj%2W?ysR4MyS$",
+    "color": "#8c8c8c",
+    "alt": "a display case filled with lots of sandwiches",
+    "credit": {
+      "name": "Scott Hendrickson",
+      "username": "desertlivin",
+      "link": "https://unsplash.com/@desertlivin"
+    }
+  },
+  "dental": {
+    "id": "e7MJLM5VGjY",
+    "raw": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxkZW50YWwlMjBjbGluaWMlMjBkZW50aXN0JTIwY2hhaXJ8ZW58MXwwfHx8MTc4NzI0ODg0NHww&ixlib=rb-4.1.0",
+    "blurHash": "LLJ[beTz9FnN%$NHMxoe8wr@t6t7",
+    "color": "#8c8c8c",
+    "alt": "modern dental office with chair and equipment",
+    "credit": {
+      "name": "Benyamin Bohlouli",
+      "username": "benyamin_bohlouli",
+      "link": "https://unsplash.com/@benyamin_bohlouli"
+    }
+  },
+  "dietary-support": {
+    "id": "6IfOjsRKtCg",
+    "raw": "https://images.unsplash.com/photo-1707129785947-ddc627a8bab9?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHx2aXRhbWlucyUyMHN1cHBsZW1lbnRzJTIwbnV0cml0aW9ufGVufDF8MHx8fDE3ODcyNDg4NDR8MA&ixlib=rb-4.1.0",
+    "blurHash": "LROVreX.*0JC[lOtRio#?cXnrqnP",
+    "color": "#d9d9d9",
+    "alt": "Citrus slices, small yellow supplement beads, and brown capsules on a wooden surface",
+    "credit": {
+      "name": "Madara",
+      "username": "madara_p",
+      "link": "https://unsplash.com/@madara_p"
+    }
+  },
+  "dry-cleaner": {
+    "id": "Db4d6MRIXJc",
+    "raw": "https://images.unsplash.com/photo-1549037173-e3b717902c57?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxkcnklMjBjbGVhbmluZyUyMHNoaXJ0cyUyMGdhcm1lbnRzfGVufDF8MHx8fDE3ODcyNDg4NDZ8MA&ixlib=rb-4.1.0",
+    "blurHash": "LFF5~t~pIURkI89ZD*Rk9Et7?a-:",
+    "color": "#737373",
+    "alt": "assorted-color formal suit jackets",
+    "credit": {
+      "name": "Waldemar Brandt",
+      "username": "waldemarbrandt67w",
+      "link": "https://unsplash.com/@waldemarbrandt67w"
+    }
+  },
+  "electronics-phone": {
+    "id": "ZvhZBzwmLic",
+    "raw": "https://images.unsplash.com/photo-1697545806245-9795b6056141?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxzbWFydHBob25lJTIwZWxlY3Ryb25pY3MlMjBzdG9yZXxlbnwxfDB8fHwxNzg3MjQ4ODQ3fDA&ixlib=rb-4.1.0",
+    "blurHash": "LYK-929FS%t64mITSiWDX9%Ms.oJ",
+    "color": "#f3f3f3",
+    "alt": "a man and a woman exchanging a cell phone at a store",
+    "credit": {
+      "name": "NSYS Group",
+      "username": "nsys_group",
+      "link": "https://unsplash.com/@nsys_group"
+    }
+  },
+  "family-entertainment": {
+    "id": "8Gdayy2Lhi0",
+    "raw": "https://images.unsplash.com/photo-1511882150382-421056c89033?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxhcmNhZGUlMjBnYW1lcyUyMGZhbWlseSUyMGVudGVydGFpbm1lbnR8ZW58MXwwfHx8MTc4NzI0ODg0N3ww&ixlib=rb-4.1.0",
+    "blurHash": "LJ8NblX=t8nLnTNEe@s=D$wJn,S#",
+    "color": "#400c59",
+    "alt": "arcade game station",
+    "credit": {
+      "name": "Carl Raw",
+      "username": "carltraw",
+      "link": "https://unsplash.com/@carltraw"
+    }
+  },
+  "florist": {
+    "id": "7dheRVS21_A",
+    "raw": "https://images.unsplash.com/photo-1672319522765-96d25be7cf82?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxmbG9yaXN0JTIwZmxvd2VyJTIwc2hvcHxlbnwxfDB8fHwxNzg3MjQ4ODQ4fDA&ixlib=rb-4.1.0",
+    "blurHash": "LEJZ-z5*58Ip7Z]O.7xa}t-:9ZMx",
+    "color": "#260c0c",
+    "alt": "a man standing in front of a bunch of flowers",
+    "credit": {
+      "name": "Eleonora Francesca Grotto",
+      "username": "eleonoirewho",
+      "link": "https://unsplash.com/@eleonoirewho"
+    }
+  },
+  "furniture-store": {
+    "id": "3RfIi22Y97Y",
+    "raw": "https://images.unsplash.com/photo-1687180498602-5a1046defaa4?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxmdXJuaXR1cmUlMjBzaG93cm9vbSUyMHNvZmF8ZW58MXwwfHx8MTc4NzI0ODg0OXww&ixlib=rb-4.1.0",
+    "blurHash": "LBE2nK8_RO%L~C$$xuxt#7xtx]t7",
+    "color": "#262626",
+    "alt": "a living room filled with furniture and a wooden floor",
+    "credit": {
+      "name": "Albero Furniture Bratislava",
+      "username": "alberofurniture",
+      "link": "https://unsplash.com/@alberofurniture"
+    }
+  },
+  "gas-station": {
+    "id": "H4GGjhkhwF0",
+    "raw": "https://images.unsplash.com/photo-1709536240401-58dff8e8d597?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxnYXMlMjBzdGF0aW9uJTIwZnVlbCUyMHB1bXB8ZW58MXwwfHx8MTc4NzI0ODg0OXww&ixlib=rb-4.1.0",
+    "blurHash": "LOLz8V8xvgR+%zNet7Md.lOXI.jF",
+    "color": "#c0c0c0",
+    "alt": "a gas pump is connected to a car at a gas station",
+    "credit": {
+      "name": "engin akyurt",
+      "username": "enginakyurt",
+      "link": "https://unsplash.com/@enginakyurt"
+    }
+  },
+  "golf-course": {
+    "id": "sWqaGzQF1N4",
+    "raw": "https://images.unsplash.com/photo-1606443192517-919653213206?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxnb2xmJTIwY291cnNlJTIwZ3JlZW4lMjBmYWlyd2F5fGVufDF8MHx8fDE3ODcyNDg4NTB8MA&ixlib=rb-4.1.0",
+    "blurHash": "L+DwstoeRjj[yGoeWBfkyEofj]az",
+    "color": "#738c40",
+    "alt": "golf course with green trees in the distance",
+    "credit": {
+      "name": "Thomas Park",
+      "username": "thomascpark",
+      "link": "https://unsplash.com/@thomascpark"
+    }
+  },
+  "golf-miniature": {
+    "id": "TKoShf8Yu2o",
+    "raw": "https://images.unsplash.com/photo-1561840883-dbdb5300f464?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxtaW5pYXR1cmUlMjBnb2xmJTIwY291cnNlfGVufDF8MHx8fDE3ODcyNDg4NTF8MA&ixlib=rb-4.1.0",
+    "blurHash": "LSDWrKy-aLWCQDt%nja3rGVuo2af",
+    "color": "#73f373",
+    "alt": "person golfing and ball about to shoot in hole",
+    "credit": {
+      "name": "Waldemar Brandt",
+      "username": "waldemarbrandt67w",
+      "link": "https://unsplash.com/@waldemarbrandt67w"
+    }
+  },
+  "grocery-store": {
+    "id": "stpjHJGqZyw",
+    "raw": "https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxncm9jZXJ5JTIwc3RvcmUlMjBmcmVzaCUyMHByb2R1Y2V8ZW58MXwwfHx8MTc4NzI0ODg1Mnww&ixlib=rb-4.1.0",
+    "blurHash": "LBGa5nzpJC$x2ns;v%E%NObtEyw4",
+    "color": "#262626",
+    "alt": "Shelves of fresh oranges, apples, lemons, and limes in a grocery store",
+    "credit": {
+      "name": "Gemma C",
+      "username": "_gemmajade",
+      "link": "https://unsplash.com/@_gemmajade"
+    }
+  },
+  "gym": {
+    "id": "CQfNt66ttZM",
+    "raw": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxneW0lMjBmaXRuZXNzJTIwd2VpZ2h0cyUyMHRyYWluaW5nfGVufDF8MHx8fDE3ODcyNDg4NTN8MA&ixlib=rb-4.1.0",
+    "blurHash": "LQFFmY4.t7oc_NM{t7ayWVWrayof",
+    "color": "#262626",
+    "alt": "woman standing surrounded by exercise equipment",
+    "credit": {
+      "name": "Danielle Cerullo",
+      "username": "dncerullo",
+      "link": "https://unsplash.com/@dncerullo"
+    }
+  },
+  "home-improvement": {
+    "id": "Cl-OpYWFFm0",
+    "raw": "https://images.unsplash.com/photo-1562259949-e8e7689d7828?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxob21lJTIwaW1wcm92ZW1lbnQlMjB0b29scyUyMHBhaW50aW5nfGVufDF8MHx8fDE3ODcyNDg4NTR8MA&ixlib=rb-4.1.0",
+    "blurHash": "LgONk3t7?axa0fn$%1xaxuxaWBM|",
+    "color": "#f3f3f3",
+    "alt": "A paint roller applying blue paint to a white wall",
+    "credit": {
+      "name": "Theme Photos",
+      "username": "themephotos",
+      "link": "https://unsplash.com/@themephotos"
+    }
+  },
+  "hotel-motel": {
+    "id": "Yrxr3bsPdS0",
+    "raw": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxob3RlbCUyMHJvb20lMjBpbnRlcmlvcnxlbnwxfDB8fHwxNzg3MjQ4ODU1fDA&ixlib=rb-4.1.0",
+    "blurHash": "LREyMY8^%2E1xYozjYjZ9Zo}WYt6",
+    "color": "#404040",
+    "alt": "white bed linen with throw pillows",
+    "credit": {
+      "name": "Vojtech Bruzek",
+      "username": "vojtechbruzek",
+      "link": "https://unsplash.com/@vojtechbruzek"
+    }
+  },
+  "liquor-store": {
+    "id": "lWQm9d9aTHA",
+    "raw": "https://images.unsplash.com/photo-1601506340309-07309cf0c4a0?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxsaXF1b3IlMjBzdG9yZSUyMHdpbmUlMjBib3R0bGVzfGVufDF8MHx8fDE3ODcyNDg4NTV8MA&ixlib=rb-4.1.0",
+    "blurHash": "LRJ?+]j]9[ay1O$*s+xb?aX8rXNG",
+    "color": "#f3d9c0",
+    "alt": "clear glass bottles on brown wooden table",
+    "credit": {
+      "name": "Teanna Morgan",
+      "username": "teananners",
+      "link": "https://unsplash.com/@teananners"
+    }
+  },
+  "massage": {
+    "id": "ZbzYDboN7fg",
+    "raw": "https://images.unsplash.com/photo-1600334089648-b0d9d3028eb2?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxtYXNzYWdlJTIwc3BhJTIwdGhlcmFweXxlbnwxfDB8fHwxNzg3MjQ4ODU2fDA&ixlib=rb-4.1.0",
+    "blurHash": "LNM?ex%gtRozAc%g%2IU*J$gV@R*",
+    "color": "#d9a673",
+    "alt": "A person lying on a massage table with smooth black stones on their back",
+    "credit": {
+      "name": "engin akyurt",
+      "username": "enginakyurt",
+      "link": "https://unsplash.com/@enginakyurt"
+    }
+  },
+  "nail-salon": {
+    "id": "gb6gtiTZKB8",
+    "raw": "https://images.unsplash.com/photo-1632345031435-8727f6897d53?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxuYWlsJTIwc2Fsb24lMjBtYW5pY3VyZXxlbnwxfDB8fHwxNzg3MjQ4ODU3fDA&ixlib=rb-4.1.0",
+    "blurHash": "LLLgIYS4ITyD01xr8_niE2X9VsV?",
+    "color": "#d9c0a6",
+    "alt": "a woman getting her nails done at a nail salon",
+    "credit": {
+      "name": "Giorgio Trovato",
+      "username": "giorgiotrovato",
+      "link": "https://unsplash.com/@giorgiotrovato"
+    }
+  },
+  "pet-store": {
+    "id": "xseaK0kISrI",
+    "raw": "https://images.unsplash.com/photo-1733451629760-d5fc1c818698?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxwZXQlMjBzdG9yZSUyMGRvZyUyMHN1cHBsaWVzfGVufDF8MHx8fDE3ODcyNDg4NTd8MA&ixlib=rb-4.1.0",
+    "blurHash": "LOGIZQ4TIp.8?aM{Ri%gNGt8Rjoz",
+    "color": "#737373",
+    "alt": "A brown dog standing in front of a store",
+    "credit": {
+      "name": "Daisy D",
+      "username": "ddddaisy",
+      "link": "https://unsplash.com/@ddddaisy"
+    }
+  },
+  "pharmacy": {
+    "id": "747NDboAWNY",
+    "raw": "https://images.unsplash.com/photo-1576602976047-174e57a47881?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxwaGFybWFjeSUyMG1lZGljaW5lJTIwc2hlbHZlc3xlbnwxfDB8fHwxNzg3MjQ4ODU4fDA&ixlib=rb-4.1.0",
+    "blurHash": "LCMtEgI94;9G9Et7%gt68^oeRPRP",
+    "color": "#d9d9d9",
+    "alt": "A bright stationery store interior with shelves of greeting cards and office supplies",
+    "credit": {
+      "name": "Nathaniel Yeo",
+      "username": "nathanielyeo",
+      "link": "https://unsplash.com/@nathanielyeo"
+    }
+  },
+  "dispensary": {
+    "id": "FU0AsIaVQjY",
+    "raw": "https://images.unsplash.com/photo-1649424219467-4dd79e189be2?ixid=M3w5NjA4MDB8MHwxfHNlYXJjaHwxfHxjYW5uYWJpcyUyMHBsYW50JTIwc2hvcCUyMGNvdW50ZXJ8ZW58MXwwfHx8MTc4NzI1MDMxOHww&ixlib=rb-4.1.0",
+    "blurHash": "LOGkB#RiZ#XU}7S5o#ad9Fbwo~nM",
+    "color": "#260c0c",
+    "alt": "a tablet computer sitting on top of a glass table",
+    "credit": {
+      "name": "Cova Software",
+      "username": "covasoftware",
+      "link": "https://unsplash.com/@covasoftware"
+    }
+  }
+}

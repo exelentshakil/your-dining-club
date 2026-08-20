@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-poppins: "Poppins", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+@layer base {
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body { @apply bg-white text-ink font-sans antialiased; }
+  h1, h2, h3 { @apply tracking-[-0.02em]; }
+  ::selection { background: #FDB913; color: #0F0F0F; }
+}
+
+@layer components {
+  /* Black pill with amber label — the site's primary CTA. */
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-pill bg-brand px-6 py-3.5
+           text-sm font-semibold text-ink shadow-pill transition
+           hover:bg-brand-400 active:scale-[0.99]
+           focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2
+           focus-visible:outline-brand disabled:opacity-50 disabled:pointer-events-none;
+  }
+  .btn-dark {
+    @apply inline-flex items-center justify-center gap-2 rounded-pill bg-ink px-6 py-3.5
+           text-sm font-semibold text-brand shadow-pill transition hover:bg-black
+           active:scale-[0.99] focus-visible:outline focus-visible:outline-2
+           focus-visible:outline-offset-2 focus-visible:outline-ink
+           disabled:opacity-50 disabled:pointer-events-none;
+  }
+  .btn-outline {
+    @apply inline-flex items-center justify-center gap-2 rounded-pill border border-white/25
+           bg-white/5 px-6 py-3.5 text-sm font-semibold text-white transition
+           hover:border-white/50 hover:bg-white/10;
+  }
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 rounded-pill border border-ink-line
+           bg-white px-6 py-3.5 text-sm font-semibold text-ink transition
+           hover:border-ink/40 hover:bg-ink-wash disabled:opacity-50 disabled:pointer-events-none;
+  }
+  .field {
+    @apply w-full rounded-[10px] border border-ink-line bg-white px-4 py-3 text-sm text-ink
+           placeholder:text-ink-muted focus:border-brand focus:outline-none focus:ring-2 focus:ring-brand/25;
+  }
+  .label {
+    @apply block text-[13px] font-medium text-ink-soft;
+  }
+  .card { @apply rounded-card border border-ink-line bg-white shadow-card; }
+  .shell { @apply mx-auto w-full max-w-shell px-5 sm:px-8; }
+  .eyebrow {
+    @apply inline-flex items-center gap-2 rounded-pill bg-brand-50 px-3.5 py-1.5 text-[11px]
+           font-bold uppercase tracking-[0.16em] text-brand-700;
+  }
+  .eyebrow-dark {
+    @apply inline-flex items-center gap-2 rounded-pill bg-brand/15 px-3.5 py-1.5 text-[11px]
+           font-bold uppercase tracking-[0.16em] text-brand;
+  }
+  .section-head { @apply text-[32px] font-bold leading-[1.15] sm:text-[41px]; }
+  /* Legal/marketing red used only for the second clause of a headline. */
+  .accent { @apply text-flame; }
+}

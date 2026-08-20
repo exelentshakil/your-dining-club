@@ -1,0 +1,36 @@
+{
+  "name": "yourdiningclub",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "db:migrate": "node --env-file=.env.local scripts/migrate.mjs",
+    "db:seed": "node --env-file=.env.local scripts/seed.mjs",
+    "loadtest": "node scripts/loadtest.mjs",
+    "db:settle": "node --env-file=.env.local scripts/settle.mjs",
+    "db:rollup": "node --env-file=.env.local scripts/rollup.mjs",
+    "stripe:setup": "node --env-file=.env.local scripts/stripe-setup.mjs",
+    "images:fetch": "node --env-file=.env.local scripts/fetch-images.mjs"
+  },
+  "dependencies": {
+    "next": "15.5.22",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "pg": "^8.13.1",
+    "stripe": "^22.4.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.0",
+    "@types/pg": "^8.11.10",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13",
+    "typescript": "^5.6.0"
+  }
+}
