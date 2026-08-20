@@ -7,7 +7,9 @@ the shape of the system does not change between 10,000 members and 1,000,000.
 Brand tokens (Poppins, `#FDB913` amber, `#E5342A` accent, black pill CTAs, 12px
 cards) come from yourdiningclub.com and live in `tailwind.config.ts`. The logo in
 `public/brand/logo.png` is the real one. All 44 photographs are real images pulled
-once from the **Unsplash API** and credited on `/credits`.
+once from the **Unsplash API**. Photographer attribution is not shown in
+the UI at this dev stage — the manifest keeps the credit data, and it belongs
+back on the site before a public launch (Unsplash requires it).
 
 ## Run it
 
@@ -36,7 +38,6 @@ exclusivity.
 | `/investors` | **The data room** — unit economics, the flywheel, an interactive 36-month model |
 | `/account` | Membership, savings to date, referral link, redemption history |
 | `/scale` | The technical architecture, in plain language |
-| `/credits` | Unsplash photographer attribution |
 
 ## Turning on Stripe
 

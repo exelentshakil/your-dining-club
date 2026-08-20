@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Link from "next/link";
-import { UNSPLASH_ATTRIBUTION_URL } from "@/lib/images";
 
 export function SiteFooter() {
   return (
@@ -41,20 +40,12 @@ export function SiteFooter() {
         />
         <FooterCol
           title="Company"
-          links={[["Investor Room", "/investors"], ["How It Scales", "/scale"], ["Photo Credits", "/credits"]]}
+          links={[["Investor Room", "/investors"], ["How It Scales", "/scale"]]}
         />
       </div>
 
-      <div className="shell flex flex-col gap-2 border-t border-white/10 py-6 text-xs text-white/45 sm:flex-row sm:items-center sm:justify-between">
+      <div className="shell border-t border-white/10 py-6 text-xs text-white/45">
         <span>© {new Date().getFullYear()} YourDiningClub.com — All Rights Reserved.</span>
-        <span>
-          Photography from{" "}
-          <a href={UNSPLASH_ATTRIBUTION_URL} className="underline underline-offset-2 hover:text-white" target="_blank" rel="noreferrer">
-            Unsplash
-          </a>
-          {" · "}
-          <Link href="/credits" className="underline underline-offset-2 hover:text-white">full credits</Link>
-        </span>
       </div>
     </footer>
   );

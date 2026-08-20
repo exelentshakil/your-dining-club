@@ -11,9 +11,6 @@ export type ImageRecord = {
 
 const images = manifest as Record<string, ImageRecord>;
 
-/** Unsplash requires this on every attribution link. */
-const UTM = "utm_source=your_dining_club&utm_medium=referral";
-
 /**
  * Builds a sized Unsplash CDN URL from the stored raw URL.
  *
@@ -37,16 +34,8 @@ export function imageRecord(slug: string): ImageRecord | null {
   return images[slug] ?? null;
 }
 
-export function creditFor(slug: string): { name: string; href: string } | null {
-  const record = images[slug];
-  if (!record) return null;
-  return { name: record.credit.name, href: `${record.credit.link}?${UTM}` };
-}
-
-export function allCredits(): Array<{ slug: string; name: string; href: string }> {
-  return Object.entries(images)
-    .map(([slug, r]) => ({ slug, name: r.credit.name, href: `${r.credit.link}?${UTM}` }))
-    .sort((a, b) => a.name.localeCompare(b.name));
-}
-
-export const UNSPLASH_ATTRIBUTION_URL = `https://unsplash.com/?${UTM}`;
+// Photographer attribution (creditFor/allCredits/UNSPLASH_ATTRIBUTION_URL) is
+// not displayed at this stage of development — removed from the UI, not from
+// the manifest. Unsplash's guidelines require attribution before this ships
+// publicly; re-add before launch. The manifest below still carries the credit
+// data needed to do that.

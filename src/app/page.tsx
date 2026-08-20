@@ -4,7 +4,7 @@ import { SiteNav } from "@/components/site-nav";
 import { SiteFooter } from "@/components/site-footer";
 import { SavingsCalculator } from "@/components/savings-calculator";
 import { Faq } from "@/components/faq";
-import { img, creditFor } from "@/lib/images";
+import { img } from "@/lib/images";
 import { RESTAURANT_CATEGORIES } from "@/data/categories";
 import {
   MEMBERSHIP_PRICE_CENTS,
@@ -38,7 +38,6 @@ export default function HomePage() {
 /* ── Hero ─────────────────────────────────────────────────────────────────── */
 
 function Hero() {
-  const credit = creditFor("hero-dining");
   return (
     <section className="relative overflow-hidden bg-ink-black text-white">
       <div
@@ -123,15 +122,6 @@ function Hero() {
             </div>
           </div>
 
-          {credit && (
-            <p className="mt-3 text-right text-[11px] text-white/35">
-              Photo:{" "}
-              <a href={credit.href} target="_blank" rel="noreferrer" className="underline underline-offset-2 hover:text-white/60">
-                {credit.name}
-              </a>{" "}
-              / Unsplash
-            </p>
-          )}
         </div>
       </div>
     </section>
@@ -323,7 +313,6 @@ function CategoryPeek() {
 /* ── Partner teaser ───────────────────────────────────────────────────────── */
 
 function PartnerTeaser() {
-  const credit = creditFor("partner-owner");
   return (
     <section className="bg-ink-wash py-20 sm:py-24">
       <div className="shell grid gap-10 lg:grid-cols-2 lg:items-center">
@@ -335,14 +324,6 @@ function PartnerTeaser() {
             className="object-cover"
             sizes="(max-width: 1024px) 100vw, 560px"
           />
-          {credit && (
-            <span className="absolute bottom-2 right-3 text-[10px] text-white/70">
-              Photo:{" "}
-              <a href={credit.href} target="_blank" rel="noreferrer" className="underline underline-offset-2">
-                {credit.name}
-              </a>
-            </span>
-          )}
         </div>
 
         <div>

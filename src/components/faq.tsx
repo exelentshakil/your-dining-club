@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { img, creditFor } from "@/lib/images";
+import { img } from "@/lib/images";
 import {
   MEMBERSHIP_PRICE_CENTS,
   MEMBERS_REQUIRED_PER_TABLE,
@@ -99,8 +99,6 @@ const QA: Array<[string, React.ReactNode]> = [
 ];
 
 export function Faq() {
-  const credit = creditFor("faq-dining");
-
   return (
     <section id="faq" className="bg-ink-wash py-20 sm:py-24">
       <div className="shell">
@@ -143,14 +141,6 @@ export function Faq() {
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 360px"
               />
-              {credit && (
-                <span className="absolute bottom-2 right-3 text-[10px] text-white/75">
-                  <a href={credit.href} target="_blank" rel="noreferrer" className="underline underline-offset-2">
-                    {credit.name}
-                  </a>{" "}
-                  / Unsplash
-                </span>
-              )}
             </div>
 
             <div className="rounded-card bg-ink-black p-6 text-white">
