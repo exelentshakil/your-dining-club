@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { env } from "@/lib/env";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -15,7 +16,10 @@ export const metadata: Metadata = {
     type: "website",
   },
   icons: { icon: "/brand/logo.png", apple: "/brand/logo.png" },
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000"),
+  // env.siteUrl already normalizes an empty-string env var to the localhost
+  // fallback (see src/lib/env.ts) — reading process.env directly here bypassed
+  // that and is what broke the Vercel build with `new URL("")`.
+  metadataBase: new URL(env.siteUrl),
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
